@@ -1,0 +1,1 @@
+interface for return value from service.
